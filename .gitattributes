@@ -1,1 +1,3 @@
 Unity_Part/* text eol=lf
+
+Assets/Resources/* filter=lfs
